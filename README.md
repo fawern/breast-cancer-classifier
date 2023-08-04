@@ -7,4 +7,4 @@ I created classification models on various machine learning algorithms.
 
 The dataset used is the University of Wisconsin Breast Cancer Dataset. The dataset includes measurements of breast cells and consists of 30 features.
 
-For more information about the dataset, you can find it at [this link]([https://github.com](https://github.com/fatiiates/breast-cancer-w-naive-bayes/blob/main/README.md)https://github.com/fatiiates/breast-cancer-w-naive-bayes/blob/main/README.md).
+For more information about the dataset, you can find it at [this link](https://github.com/fatiiates/breast-cancer-w-naive-bayes/blob/main/README.md).
